@@ -16,3 +16,21 @@ Cada atividade fica na sua pasta e o repositório evolui commit a commit.
 
 - Python 3.9+
 - `pip install -r requirements.txt` (só a atividade 2 usa dependência externa)
+
+## Como executar
+
+Cada pasta tem um `README.md` com os comandos. Resumo:
+
+```bash
+cd atividade-1 && python servidor_horario.py     # e em outro terminal: python cliente_horario.py
+```
+
+## Histórico
+
+O repositório evolui por atividade. Cada uma foi desenvolvida em uma branch
+(`atividade-N`), mergeada na `main` e marcada com uma tag (`atividade-N`).
+Para ver o código exatamente como estava ao fim de uma atividade:
+
+```bash
+git checkout atividade-2
+```
