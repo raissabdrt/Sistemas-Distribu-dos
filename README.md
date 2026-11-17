@@ -11,6 +11,7 @@ Cada atividade fica na sua pasta e o repositório evolui commit a commit.
 | `atividade-2/` | RPC com RPyC (horário) |
 | `atividade-3/` | Chat em tempo real (sockets + threads) |
 | `atividade-4/` | Monitor de Heartbeat |
+| `atividade-5/` | Reserva de assentos com RPyC (estado compartilhado) |
 
 ## Requisitos
 
